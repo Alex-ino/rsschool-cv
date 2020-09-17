@@ -16,12 +16,7 @@
 1. HTML/CSS (Novice)
 1. Arduino (Intermediate)
 
-------
-### Projects
 
-* **Project_1**
-     Project description
-------
 
 ### Education
 
