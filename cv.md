@@ -17,12 +17,6 @@
 1. Arduino (Intermediate)
 
 ------
-
-### Experience
-
-**Exp1** *Spec1* __2013 till now__
-Description.
-
 ### Projects
 
 * **Project_1**
